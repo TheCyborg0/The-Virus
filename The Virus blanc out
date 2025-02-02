@@ -2,22 +2,14 @@
 <html>
     <head>
         <meta charset="utf-8">
-        <title>Project: Blog</title>
+        <title>Notification We will transport you to a new web</title>
     </head>
     <body>
         
-        <h1>___'s blog</h1>
+        <h1>Private transfer</h1>
 
-        <h3>Contents</h3>
-        <ul>
-            <li>First post!</li>
-        </ul>
-        
-        <h2>First post</h2>
-        <h6>Posted on some date in some year</h6>
-        
-        <p>Something excited happened.</p>
-        
+        <h3>Just click the button and it will transport you to favorite game</h3>
+        <button>Fortnite<button>
         
     </body>
 </html>
